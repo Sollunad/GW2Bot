@@ -727,9 +727,9 @@
       }
     },
     "divinations": {
-      "legendary_divination": 88485
-	  "coalescence": 91234
-	  "gift_of_compassion": 91225
+      "legendary_divination": 88485,
+      "coalescence": 91234,
+      "gift_of_compassion": 91225
     }
   },
   "killproofs": {
